@@ -32,3 +32,27 @@
 -->
 ![Visitor Count](https://profile-counter.glitch.me/ShonGeorge/count.svg)
 
+
+## Welcome to My GitHub Profile! 
+
+### Choose Your Visitor Counter Style
+
+#### Simple Counter
+![Visitor Count](https://profile-counter.glitch.me/ShonGeorge/count.svg)
+
+#### Flat Design Counter
+![Visitor Count](https://badges.aleen42.com/src/visitor.svg)
+
+#### GitHub Style Counter
+![Visitor Count](https://img.shields.io/badge/Visitors-Count-blue)
+
+#### Stylish Counter with Custom Text
+![Visitor Count](https://profile-counter.glitch.me/ShonGeorge/count.svg) ![Total Visitors](https://img.shields.io/badge/Total_Visitors-!%5BVisitor%20Count%5D(https://profile-counter.glitch.me/ShonGeorge/count.svg)-green)
+
+#### Retro Style Counter
+![Visitor Count](https://badges.aleen42.com/src/visitors.svg?color=blue)
+
+#### Animated Counter
+![Visitor Count](https://dynamic-badge.glitch.me/badge/Visitor%20Count-blue?style=flat)
+
+
