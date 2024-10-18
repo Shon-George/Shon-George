@@ -1,9 +1,5 @@
 
 # Hi there, I'm Shon G! 👋 
-your friendly neighborhood code enthusiast😊! 🌟
-
-
-## Skills
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black?style=flat&logo=gnu-bash)
  ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat&logo=reactnative) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=aspdotnet)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql) ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat&logo=sqlite) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)
@@ -30,5 +26,6 @@ your friendly neighborhood code enthusiast😊! 🌟
 
 
 
+![Visitor Counter](https://camo.githubusercontent.com/943ee5b74a886a20e050012d1a8f234cefb99ab3763738437cb69e5cdf767f2d/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d4a656c6c79427269636b266d617267696e2d773d3132266d617267696e2d683d3526636f756e745f707269766174653d74727565267468656d653d6e6f7264)
 
 
