@@ -8,8 +8,6 @@
 🎉 Let’s connect and collaborate! Whether it’s coding challenges or tech discussions, I’m all in for some exciting projects and new ideas. 🌈
 
 
-
-## Skills
 ## Skills
 
 ### Languages
