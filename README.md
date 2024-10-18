@@ -7,8 +7,6 @@
 🚀 Currently diving into the exciting world of **open-source coding** and backend development—because who doesn’t love a little adventure in tech? 💻💡 
 🎉 Let’s connect and collaborate! Whether it’s coding challenges or tech discussions, I’m all in for some exciting projects and new ideas. 🌈
 
-
-## Skills
 ## Skills
 
 ### Languages  :  ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black?style=flat&logo=gnu-bash)
