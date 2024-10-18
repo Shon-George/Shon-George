@@ -11,8 +11,7 @@
 ## Skills
 ## Skills
 
-### Languages
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black?style=flat&logo=gnu-bash)
+### Languages : ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3) ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java) ![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=csharp) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) ![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-black?style=flat&logo=gnu-bash)
 
 ### Frameworks
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react) ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat&logo=reactnative) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js) ![Django](https://img.shields.io/badge/-Django-black?style=flat&logo=django) ![ASP.NET](https://img.shields.io/badge/-ASP.NET-black?style=flat&logo=aspdotnet)
