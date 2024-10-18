@@ -30,4 +30,5 @@
 - [Portfolio](https://yourportfolio.com)
 
 -->
+![Visitor Count](https://profile-counter.glitch.me/ShonGeorge/count.svg)
 
