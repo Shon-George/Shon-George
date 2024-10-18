@@ -10,8 +10,7 @@
 
 ## Skills
 
-### Languages
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
+### Languages ![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
