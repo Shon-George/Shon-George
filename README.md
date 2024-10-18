@@ -1,5 +1,6 @@
 
-# Hi there, I'm Shon G! 👋 your friendly neighborhood code enthusiast😊! 🌟
+# Hi there, I'm Shon G! 👋 
+your friendly neighborhood code enthusiast😊! 🌟
 
 
 ## Skills
