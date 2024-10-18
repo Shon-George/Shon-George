@@ -23,7 +23,7 @@
 -->
 <div align="right">
   <a href="https://github.com/Shon-George">
-    ![Visitor Count](https://profile-counter.glitch.me/ShonGeorge/count.svg)
+    <img src="https://profile-counter.glitch.me/ShonGeorge/count.svg" alt="Visitor Count">
   </a>
 </div>
 
